@@ -1,0 +1,1 @@
+javac -classpath .:/opt/mapr/lib/mapr-streams-5.1.0-mapr.jar:/opt/mapr/lib/mapr-streams-5.1.0-mapr-tests.jar:/opt/mapr/lib/kafka-clients-0.9.0.0-mapr-1602.jar:./twitter4j/lib/twitter4j-core-4.0.4.jar:./twitter4j/lib/twitter4j-stream-4.0.4.jar -d ./classes *.java
